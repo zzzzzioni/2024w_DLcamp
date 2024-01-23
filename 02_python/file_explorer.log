@@ -1,0 +1,4 @@
+2024-01-23 14:00:06,103 - utils.command_parser - INFO - Command name: pwd
+2024-01-23 14:00:06,103 - utils.command_parser - INFO - Options: []
+2024-01-23 14:00:06,103 - utils.command_parser - INFO - Positional args: []
+2024-01-23 14:00:06,103 - __main__ - INFO - Input command: pwd
